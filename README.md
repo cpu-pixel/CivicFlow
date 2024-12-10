@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [cpu-pixel](mailto:utkarshsax2004@gmail.com)
+Name - [cpu-pixel](mailto:utkarshsax2004@gmail.com)
 
 Project Link: [https://github.com/cpu-pixel/CivicFlow](https://github.com/cpu-pixel/CivicFlow)
 
