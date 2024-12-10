@@ -93,9 +93,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [cpu-pixel](mailto:utkarshsax2004@gmail.com)
 
-Project Link: [https://github.com/yourusername/city-cooperation-platform](https://github.com/yourusername/city-cooperation-platform)
+Project Link: [https://github.com/cpu-pixel/CivicFlow](https://github.com/cpu-pixel/CivicFlow)
 
 ---
 
